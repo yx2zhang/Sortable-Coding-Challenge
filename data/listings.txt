@@ -4776,6 +4776,9 @@
 {"title":"Panasonic Lumix DMC-FP5 14.1 MP Digital Camera with 4x Optical Image Stabilized Zoom with 3.0-Inch Touch-Screen LCD (Blue)","manufacturer":"Panasonic","currency":"USD","price":"199.00"}
 {"title":"Canon Powershot SD200 3.2MP Digital Elph Camera with 3x Optical Zoom","manufacturer":"Canon","currency":"USD","price":"65.00"}
 {"title":"Sony Cyber-shot DSCH50 9.1 MP Digital Camera with 15x Optical Zoom with Super Steady Shot","manufacturer":"Sony","currency":"USD","price":"150.00"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Light Blue)","manufacturer":"Olympus","currency":"USD","price":"60.00"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Light Blue)","manufacturer":"Olympus","currency":"USD","price":"99.99"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Light Blue)","manufacturer":"Olympus","currency":"USD","price":"149.99"}
 {"title":"Panasonic Lumix DMC-FX55P 8.1MP Digital Camera with 3.6x Wide Angle MEGA Optical Image Stabilized Zoom (Pink)","manufacturer":"Panasonic","currency":"USD","price":"174.95"}
 {"title":"Fujifilm Finepix Z20fd 10MP Digital Camera with 3x Optical Zoom (Ice Blue)","manufacturer":"FUJIFILM","currency":"USD","price":"55.00"}
 {"title":"Fujifilm Finepix Z20fd 10MP Digital Camera with 3x Optical Zoom (Ice Blue)","manufacturer":"FUJIFILM","currency":"USD","price":"106.49"}
@@ -4893,6 +4896,8 @@
 {"title":"Samsung ST65 14MP 27mm Wide Angle Lens HD Digital Camera in Silver + 4GB Accessory Kit","manufacturer":"Samsung","currency":"USD","price":"129.00"}
 {"title":"Fujifilm FinePix S2000HD 10MP Digital Camera with 15x Optical Dual Image Stabilized Zoom","manufacturer":"FUJIFILM","currency":"USD","price":"164.79"}
 {"title":"Fujifilm FinePix S2000HD 10MP Digital Camera with 15x Optical Dual Image Stabilized Zoom","manufacturer":"FUJIFILM","currency":"USD","price":"293.95"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Light Pink)","manufacturer":"Olympus","currency":"USD","price":"66.95"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Light Pink)","manufacturer":"Olympus","currency":"USD","price":"76.45"}
 {"title":"Kodak EasyShare M341 Digital Camera (Orchid)","manufacturer":"Kodak","currency":"USD","price":"49.95"}
 {"title":"Kodak EasyShare M341 Digital Camera (Orchid)","manufacturer":"Kodak","currency":"USD","price":"72.95"}
 {"title":"Kodak EasyShare M341 Digital Camera (Orchid)","manufacturer":"Kodak","currency":"USD","price":"114.99"}
@@ -5565,6 +5570,9 @@
 {"title":"Kodak EasyShare M320 (Silver) Digital Camera","manufacturer":"Kodak","currency":"USD","price":"63.00"}
 {"title":"Kodak EasyShare M320 (Silver) Digital Camera","manufacturer":"Kodak","currency":"USD","price":"63.99"}
 {"title":"Kodak EasyShare M320 (Silver) Digital Camera","manufacturer":"Kodak","currency":"USD","price":"79.99"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Pearl Black)","manufacturer":"Olympus","currency":"USD","price":"42.99"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Pearl Black)","manufacturer":"Olympus","currency":"USD","price":"79.95"}
+{"title":"Olympus FE-46 12MP Digital Camera with 5x Optical Zoom and 2.7 inch LCD (Pearl Black)","manufacturer":"Olympus","currency":"USD","price":"179.99"}
 {"title":"Olympus CAMEDIA C-2040ZOOM - Digital camera - compact - 2.1 Mpix - optical zoom: 3 x - supported memory: SM - black, metallic silver","manufacturer":"Olympus","currency":"USD","price":"56.44"}
 {"title":"Pentax Optio H90 12.1 MP Digital Camera with 5x Wide Angle Optical Zoom and 2.7-Inch LCD (Matte Black)","manufacturer":"Pentax","currency":"USD","price":"130.99"}
 {"title":"Sony Cybershot DSC-T10 7.2MP Digital Camera with 3x Optical Steady Shot Zoom (Silver)","manufacturer":"Sony","currency":"USD","price":"105.00"}
@@ -5694,6 +5702,7 @@
 {"title":"Fujifilm Finepix Z10fd 7.2MP Digital Camera with 3x Optical Zoom (Wasabi Green)","manufacturer":"FUJIFILM","currency":"USD","price":"36.99"}
 {"title":"Fujifilm Finepix Z10fd 7.2MP Digital Camera with 3x Optical Zoom (Wasabi Green)","manufacturer":"FUJIFILM","currency":"USD","price":"59.99"}
 {"title":"Fujifilm Finepix Z10fd 7.2MP Digital Camera with 3x Optical Zoom (Wasabi Green)","manufacturer":"FUJIFILM","currency":"USD","price":"199.44"}
+{"title":"Olympus FE-46 12MP Digital Camera Black Crayola Kit with 5x Optical Zoom and 2.7 inch LCD, 64 pack of Crayons and Storage Box","manufacturer":"Olympus","currency":"USD","price":"82.00"}
 {"title":"Kodak EasyShare M340 Digital Camera (Red)","manufacturer":"Eastman Kodak Company","currency":"USD","price":"64.99"}
 {"title":"Kodak EasyShare M340 Digital Camera (Red)","manufacturer":"Eastman Kodak Company","currency":"USD","price":"74.90"}
 {"title":"Kodak EasyShare M340 Digital Camera (Red)","manufacturer":"Eastman Kodak Company","currency":"USD","price":"119.99"}
@@ -19041,6 +19050,7 @@
 {"title":"Panasonic Lumix DMC-FP 1 bleue","manufacturer":"Panasonic","currency":"EUR","price":"184.96"}
 {"title":"SAMSUNG WB600 - noir + Etui Pixmania Compact 11 X 3.5 X 8 CM NOIR + Carte mémoire SDHC 8 Go + Batterie SLB11 + Lecteur de cartes 1000 en 1 USB 2.0","manufacturer":"Samsung","currency":"EUR","price":"261.99"}
 {"title":"Olympus -  TOUGH-8000 - Appareil photo compact numérique - 12 Mpix - Zoom Optique 3,6x - Ecran LCD 2,7\" - Etanche et anti-choc - Argent","manufacturer":"Olympus","currency":"EUR","price":"320.00"}
+{"title":"Olympus - FE-46 - Appareil photo numérique Compact - 12 Mpixels - Zoom 5x - Ecran 2,7\" Plein soleil - Rose","manufacturer":"Olympus","currency":"EUR","price":"82.50"}
 {"title":"Casio - Exilim EX-Z550 - Appareil photo numérique - 14 Mpix - Argent","manufacturer":"CASIO","currency":"EUR","price":"179.00"}
 {"title":"Fujifilm - FinePix Z30 - Appareil photo compact numérique - 10 Mpix - Zoom Optique 3x - Ecran LCD 2,7\" - Black Pepper","manufacturer":"FUJIFILM","currency":"EUR","price":"140.00"}
 {"title":"UNGARO sac photo - Cloisons amovibles","manufacturer":"UNGARO","currency":"EUR","price":"49.90"}
